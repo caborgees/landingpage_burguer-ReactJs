@@ -1,0 +1,77 @@
+.navbar{  background-color: black;
+width: 100%;}
+.navbar ul li{
+  margin-top: 5px;
+  list-style: none;
+  display: inline;
+  color: white;
+  padding: 5px;
+  left: 50px;
+
+}
+ .navbar a{
+  background: #FABB46;
+  padding: 15px;
+color: black;
+font-weight: 600;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+}
+
+.Chefs{
+  background: rgba(250, 187, 70, 0.17);
+  text-align: center;
+  
+}
+.Chefs img{
+  margin: 10px;
+  margin-bottom: 40px;
+}
+.Chefs p{
+  color: #FABB46;
+}
+
+.img-chef{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Instagram{
+  background: url('./images/instagram.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+text-align: center;}
+
+.Instagram img {
+  margin: 40px;
+}
+
+.Instagram h5, Button{
+  top: 210px;
+  position: relative;
+}
+
+.Instagram Button{
+  margin: 10px;
+  width: 300px;
+height: 70px;
+background: #FABB46;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+border: none;
+}
+.textura{
+  position: absolute;
+  margin-top: -40px;
+  
+}
+footer{
+  color: #FABB46;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+  top: 40px;
+
+}
+
