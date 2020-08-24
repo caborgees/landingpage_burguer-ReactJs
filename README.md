@@ -1,5 +1,5 @@
 # landingpage_burguer-ReactJs
-:hamburger: Landingpage for Hamburger shop using React js and Bootstrap
+:hamburger: Landingpage for Hamburger Shop using React Js and Bootstrap
 
 <div align="center">
 
